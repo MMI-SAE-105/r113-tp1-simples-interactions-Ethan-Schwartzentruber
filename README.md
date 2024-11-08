@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Schwartzentruber
+- prénom : Ethan
+- URL Netlify : https://voluble-pasca-70a6e7.netlify.app/
 
 # Travail
 
